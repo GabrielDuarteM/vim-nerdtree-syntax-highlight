@@ -236,6 +236,7 @@ let s:file_extension_colors = {
   \ 'css'      : s:blue,
   \ 'less'     : s:darkBlue,
   \ 'md'       : s:yellow,
+  \ 'mdx'      : s:yellow,
   \ 'markdown' : s:yellow,
   \ 'json'     : s:beige,
   \ 'js'       : s:beige,
